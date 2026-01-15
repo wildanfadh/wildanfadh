@@ -10,7 +10,7 @@ Driven by a **'Live for Learn'** philosophy, I am constantly exploring the inter
 ### 🛠️ Technical Toolkit
 
 - **Frontend & Mobile:** React, React Native, TypeScript, Tailwind CSS.
-- **Backend:** Node.js (Express/NestJS), PHP (Laravel, Symfony, CodeIgniter).
+- **Backend:** Node.js (Express/NestJS), PHP (Laravel, CodeIgniter).
 - **Database & Ops:** PostgreSQL, MySQL, Linux System Administration.
 - **Environment:** Daily driving **Ubuntu 24.04** 🐧. I'm a firm believer in the power of Open Source and terminal-based workflows.
 
