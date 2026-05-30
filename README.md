@@ -30,7 +30,7 @@ Driven by a **'Live for Learn'** philosophy, I am constantly exploring the inter
   <img src="https://github-readme-stats.vercel.app/api?username=wildanfadh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Wildan's GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanfadh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
 </p> -->
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/wildanfadh?cardType=level&theme=github-dark&fontFamily=&preferLogin=true)]
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/wildanfadh?cardType=level&theme=github-dark&fontFamily=&preferLogin=true)](https://github.com/wildanfadh)
 <!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=wildanfadh&show_icons=true&theme=tokyonight) -->
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=wildanfadh&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wildanfadh&layout=compact&theme=tokyonight)
